@@ -2,7 +2,7 @@
 
 session_start();
 session_destroy();
-header("Location:xyz.html");
+header("Location:userlogin.html");
 
 
 ?>
